@@ -14,9 +14,9 @@ Inside the `linux` directory, you'll find my configuration files for various Lin
    git clone https://github.com/Secreez/my_configs.git
    ```
 2. Navigate to this directory:
-  ```bash
-  cd my_configs/linux
-  ```
+   ```bash
+   cd my_configs/linux
+   ```
 
 3. Copy the desired configuration files or directories to their respective locations in your home directory or system.
 
